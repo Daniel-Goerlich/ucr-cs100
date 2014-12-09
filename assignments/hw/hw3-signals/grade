@@ -1,1 +1,4 @@
-/ 100
+10 / 100
+checksyscall -40 part1 0 part2 30 part3 20
+part1: not working
+part3: crash, not absolute directory
