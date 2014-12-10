@@ -1,13 +1,2 @@
 70 / 100
 checksyscall -40, part1 0, part2 25, part3 10, extra1 +20 extra2 +20
-#####################################
-#
-# gradetmp/ucr-cs100-dgoer001/assignments/hw/hw2-piping//grade
-#
-# name      = Daniel Goerlich
-# csaccount = dgoer001
-# github    = Daniel-Goerlich
-#
-# any line that begins with a # is a comment and won't be written to the file
-#
-#####################################
